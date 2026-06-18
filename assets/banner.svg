@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="corpspeak - the anti-humanizer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c9d1d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="400" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="6" fill="#2f81f7"/>
+  <text x="640" y="96" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="7" fill="#2f81f7">THE ANTI-HUMANIZER</text>
+  <text x="640" y="208" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="-3" fill="url(#word)">corpspeak</text>
+  <text x="640" y="258" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="400" fill="#8b949e">Turn any text into boardroom-ready corporate-speak. Without sounding like AI.</text>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600">
+    <rect x="395" y="298" width="150" height="50" rx="25" fill="none" stroke="#2f81f7" stroke-width="2"/>
+    <text x="470" y="330" text-anchor="middle" fill="#2f81f7">light</text>
+    <rect x="565" y="298" width="150" height="50" rx="25" fill="#2f81f7"/>
+    <text x="640" y="330" text-anchor="middle" fill="#ffffff">medium</text>
+    <rect x="735" y="298" width="150" height="50" rx="25" fill="#d29922"/>
+    <text x="810" y="330" text-anchor="middle" fill="#0d1117">extreme</text>
+  </g>
+  <text x="640" y="384" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#6e7681">Bilingual &#183; tuned for Italian aziendalese &#183; a Claude Code skill</text>
+</svg>
