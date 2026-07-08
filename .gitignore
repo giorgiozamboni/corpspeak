@@ -1,0 +1,38 @@
+# --- Segreti ---
+.env
+.env.*
+*.key
+
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# --- Node / web ---
+node_modules/
+.next/
+out/
+
+# --- Editor / OS ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Claude Code local ---
+.claude/
+
+# --- Output / file generati a runtime ---
+output/
+*.log
+*.tmp
+*.tmp.md
+
+# --- Materiale pesante / archivio ---
+reference/
+_archivio/
+fixtures/large/
